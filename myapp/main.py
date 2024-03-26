@@ -4,6 +4,8 @@ import pandas as pd
 from fastapi import FastAPI
 from pydantic import BaseModel
 from myapp.model import Model
+from warnings import filterwarnings
+filterwarnings('ignore')
 
 # load model
 model = Model()
