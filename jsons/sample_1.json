@@ -12,11 +12,10 @@
 	"utm_keyword": "UKNBOHebRIIsQRsjNKay",
 	"device_category": "desktop",
 	"device_os": "Windows",
-	"device_brand": null,
-	"device_model": null,
+	"device_brand": "Android",
+	"device_model": "unknown",
 	"device_screen_resolution": "2560x1440",
 	"device_browser": "Chrome",
 	"geo_country": "Russia",
-	"geo_city": "Moscow",
-	"target_event": 1
+	"geo_city": "Moscow"
 }

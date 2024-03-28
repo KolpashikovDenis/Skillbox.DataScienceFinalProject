@@ -32,7 +32,7 @@ class Form(BaseModel):
     geo_city: str
 
 # app
-app = FastAPI(title='Symbol detection')
+app = FastAPI()
 
 # api
 @app.post('/predict')
